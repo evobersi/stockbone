@@ -84,8 +84,3 @@ var StockView = Backbone.View.extend({
 
 Backbone.history.start();
 
-$(function(){
-  console.log(";alksdfj");
-})
-
-alert("a;lsdkfj");
